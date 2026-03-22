@@ -11,7 +11,7 @@ params:
   author: "마케터"
   description: "이커머스 마케터의 전환율 최적화 실험 기록. 쇼핑몰 운영하면서 겪은 삽질과 성공 이야기."
   defaultTheme: auto
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
